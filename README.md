@@ -1,11 +1,17 @@
-Hi, I’m Yohana 👩🏻🖐🏻
+## Hi there! I'm **YOHANA MEILYAWATI** 👩🏻👋
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About Me
+- 🌱 I’m currently learning **Java** and exploring object-oriented programming concepts.
+- 📫 How to reach me: yohanameilyawati07@gmail.com
+- 😄 Pronouns: **She/Her**
+
+## Skills
+- **Languages**: Java
+- **Tools**: Git
+
+## Fun Facts
+- 🎮 I love playing video games and often draw inspiration from them for my projects.
+- 📚 I enjoy reading books on programming and technology trends.
 
 <!---
 yoyowhh/yoyowhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
