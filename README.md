@@ -6,7 +6,7 @@
 - 😄 Pronouns: **She/Her**
 
 ## Skills
-- **Languages**: Java
+- **Languages**: Java, html, css, sql
 - **Tools**: Git
 
 ## Fun Facts
