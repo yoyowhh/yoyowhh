@@ -1,19 +1,45 @@
-## Hi there! I'm **YOHANA MEILYAWATI** 👩🏻👋
+# 🍄 Hello, I'm Yohana (aka yoyowhh)
 
-## About Me
-- 🌱 I’m currently learning **Java** and exploring object-oriented programming concepts.
-- 📫 How to reach me: yohanameilyawati07@gmail.com
-- 😄 Pronouns: **She/Her**
+🎮 Welcome to my GitHub World!
 
-## Skills
-- **Languages**: Java, html, css, sql
-- **Tools**: Git
+---
 
-## Fun Facts
-- 🎮 I love playing video games and often draw inspiration from them for my projects.
-- 📚 I enjoy reading books on programming and technology trends.
+## 🧑‍💻 Player Profile
+- 🎮 Name: Yohana
+- 🧠 Class: Software Engineer (D3 RPLA)
+- 📍 Location: Indonesia
+- ⚡ Status: Grinding code like Mario collecting coins
 
-<!---
-yoyowhh/yoyowhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠️ Skills Inventory
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=yoyowhh&show_icons=true&theme=radical)
+
+---
+
+## 🍄 Current Quest
+- 🚀 Build cool apps
+- 📱 Improve Android & Web skills
+- 🎯 Finish awesome projects
+- 🧩 Level up coding skills daily
+
+---
+
+## 🏆 Achievements
+- 🎓 D3 RPLA Student
+- 💻 Built multiple campus projects
+- ⚡ Survived debugging sessions
+
+---
+
+## 🎮 “Let’s-a go!”
+> Code like Mario jumping through levels — one bug at a time 🍄
