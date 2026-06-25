@@ -1,4 +1,4 @@
-# 🍄 Hello, I'm Yohana (aka yoyowhh)
+# 🍄 Hello, I'm Yohana
 
 🎮 Welcome to my GitHub World!
 
