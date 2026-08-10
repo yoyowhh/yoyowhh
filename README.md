@@ -40,6 +40,3 @@
 - ⚡ Survived debugging sessions
 
 ---
-
-## 🎮 “Let’s-a go!”
-> Code like Mario jumping through levels — one bug at a time 🍄
