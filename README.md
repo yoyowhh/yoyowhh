@@ -1,6 +1,7 @@
 
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171321,50:3B245C,100:8B5CF6&height=200&section=header&text=Yohana%20Meilyawati&fontSize=38&fontColor=EDE9FE&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20UI%2FUX%20Designer&descSize=16&descAlignY=60" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=500&lines=Hello%2C+World!+I'm+Yohana;Building+web+experiences+with+purpose;Designing.+Developing.+Learning." />
@@ -27,26 +28,6 @@ I'm passionate about building web applications, creating intuitive user interfac
 
 I enjoy working at the intersection of **frontend development and UI/UX design**, where clean code meets thoughtful design.
 
-```javascript
-const yohana = {
-  education: "D3 Application Software Engineering",
-  university: "Telkom University",
-  interests: [
-    "Web Development",
-    "Frontend Engineering",
-    "UI/UX Design",
-    "Software Development"
-  ],
-  currentlyLearning: [
-    "React",
-    "Backend Integration",
-    "Data Visualization"
-  ],
-  mindset: "Keep learning, keep building."
-};
-```
-
----
 
 ## ✦ Tech Stack
 
@@ -182,7 +163,5 @@ A game development project created for GEMASTIK.
 ### Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:171321&height=100&section=footer" width="100%" />
-
-<sub>Designed with curiosity, built with code.</sub>
 
 </div>
